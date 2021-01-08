@@ -1,4 +1,4 @@
-package com.example.dsdelivery;
+package com.devsuperior.dsdelivery;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

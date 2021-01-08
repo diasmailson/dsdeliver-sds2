@@ -1,4 +1,4 @@
-package com.example.dsdelivery.config;
+package com.devsuperior.dsdelivery.config;
 
 import java.util.Arrays;
 
